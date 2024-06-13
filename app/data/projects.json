@@ -45,6 +45,24 @@
 		"twitterURL": ""
   },
   {
+    "projectName": "Apache Flink",
+    "projectDescription": "Apache Flink is a framework and distributed processing engine for stateful computations over unbounded and bounded data streams. Flink has been designed to run in all common cluster environments, perform computations at in-memory speed and at any scale.",
+    "projectRepository": "https://github.com/apache/flink",
+    "projectWebsite": "https://flink.apache.org/",
+    "category": "Middleware",
+    "twitterHandle": "@apacheflink",
+    "twitterURL": "https://x.com/apacheflink"
+  },
+  {
+    "projectName": "Apache Kafka",
+    "projectDescription": "Apache Kafka is an open-source distributed event streaming platform used by thousands of companies for high-performance data pipelines, streaming analytics, data integration, and mission-critical applications",
+    "projectRepository": "https://github.com/apache/kafka",
+    "projectWebsite": "https://kafka.apache.org/",
+    "category": "Middleware",
+    "twitterHandle": "@apachekafka",
+    "twitterURL": "https://x.com/apachekafka"
+  },
+  {
     "projectName": "Apache Qpid",
     "projectDescription": "Makes messaging tools that speak AMQP and support many languages and platforms.",
     "projectRepository": "https://github.com/apache/qpid",

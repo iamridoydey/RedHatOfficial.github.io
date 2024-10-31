@@ -6,7 +6,7 @@
   "scripts": {
     "babel": "babel --presets es2015 app/index.js -o dist/bundle.js",
     "build": "webpack --config webpack.config.prod.js --mode production",
-    "start": "webpack-dev-server --mode development --open --config webpack.config.dev.js",
+    "start": "NODE_OPTIONS=--openssl-legacy-provider webpack-dev-server --mode development --open --config webpack.config.dev.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
